@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-I am a final-year B.Tech student at **NIT Silchar**, specializing in building resilient backend systems, real-time telematics analysis, and robust machine learning pipelines. I thrive where architectural engineering meets data science.
+I am a final-year B.Tech student at **NIT Silchar**, I like building backend systems, real-time telematics/data analysis, and robust machine learning pipelines.
 
 *   **Key Interests:** Developing low-latency backends, Data Science application and Backend Integration, time-series forecasting, Data Engineering.
 
