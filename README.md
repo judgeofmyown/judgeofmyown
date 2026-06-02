@@ -59,24 +59,24 @@ I am a final-year B.Tech student at **NIT Silchar**, specializing in building re
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=judgeofmyown&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=judgeofmyown&theme=dark&hide_border=false" alt="Commit Streak" width="97%">
 </p>
 
 ### SSSSSS
 <p align="center">
   <img src="https://raw.githubusercontent.com/judgeofmyown/judgeofmyown/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</p> -->
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/tanbirlaskar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your_email@gmail.com" target="_blank">
+  <a href="mailto:tanbir100000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
