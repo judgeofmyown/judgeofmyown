@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Main%20Focus-Systems%20%2F%20Machine%20Learning-blueviolet?style=for-the-badge" alt="Main Focus">
-  <img src="https://img.shields.io/badge/Passionate%20About-Algorithms%20%26%20Causal%20AI-orange?style=for-the-badge" alt="Passionate About">
+  <img src="https://img.shields.io/badge/Passionate%20About-Algorithms%20%26%20Math%20AI-orange?style=for-the-badge" alt="Passionate About">
 </p>
 
 ---
